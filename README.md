@@ -68,7 +68,7 @@ Who added commands (uptime, ping, vv, ss, repo); <br>
 
 The WhatsApp Bot DRA-GON is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-🌟 THANK YOU FOR CHOOSING BELTAH-MD 🌟
+🌟 THANK YOU FOR CHOOSING DRA-GON AI🌟
 
 ## DEVELOPER :
 
